@@ -1,8 +1,13 @@
 **NAME:** JANISHA.S
+
 **COMPANY:**  CODTECH IT SOLUTIONS
+
 **ID:** CT08DS643
+
 **Domain:** Data Science
+
 **Duration:** 12th December 2024 To 12th January 2024
+
 **Mentor:** Neela Santhosh Kumar
 
 ## Overview of the project

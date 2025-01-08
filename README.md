@@ -17,28 +17,33 @@
 
 ### Key Activities: 
 **Numerical Features:** 
+
 Missing values are filled with the median using SimpleImputer.
 
 Features are normalized using StandardScaler.
 
 
 **Categorical Features:**
+
 Missing values are filled with the most frequent category.
 
 Variables are one-hot encoded to create binary columns for each category.
 
 
 **ColumnTransformer:**
+
 Combines the preprocessing for numerical and categorical features into one pipeline.
 
 
 **Integration:**
+
 Converts the Scikit-learn output back into a Pandas DataFrame for compatibility.
 
 Includes original column names for better interpretability.
 
 
 **Export:**
+
 Saves the cleaned dataset as a CSV file for further analysis or modeling.
 
 ### Technologies Used:

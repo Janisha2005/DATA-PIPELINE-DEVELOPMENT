@@ -49,6 +49,6 @@ Saves the cleaned dataset as a CSV file for further analysis or modeling.
 ### Technologies Used:
 **Python:** Programming language
 
-**Pandas:** Used for data manipulatinu
+**Pandas:** Used for data manipulation
 
 **sklearn:** Used for SimpleImputer, StandardScaler, OneHotEncoder, ColumnTransformer and Pipeline
